@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Program_Files/Chapter4Topic2Task/app/src/main/res/drawable/bgcard.xml" value="0.1" />
+        <entry key="..\:/Program_Files/Chapter4Topic2Task/app/src/main/res/layout/activity_detail_news.xml" value="0.264" />
+        <entry key="..\:/Program_Files/Chapter4Topic2Task/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Program_Files/Chapter4Topic2Task/app/src/main/res/layout/activity_news.xml" value="0.16302083333333334" />
+        <entry key="..\:/Program_Files/Chapter4Topic2Task/app/src/main/res/layout/activity_student_acitivity.xml" value="0.1" />
+        <entry key="..\:/Program_Files/Chapter4Topic2Task/app/src/main/res/layout/news_card.xml" value="0.1" />
+        <entry key="..\:/Program_Files/Chapter4Topic2Task/app/src/main/res/layout/student_card.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
